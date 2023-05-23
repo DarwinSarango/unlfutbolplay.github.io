@@ -12,6 +12,7 @@ body{
     border-radius: 75%;
     display: inline-block;
     background-size: cover;
+    text-align: center;
 }
 
 .header{
